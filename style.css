@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: #243b55;
+    color: white;
+    padding: 20px;
+}
+
+.content {
+    margin: 20px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: blue;
+}
+
+.gallery img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #243b55;
+    color: white;
+}
